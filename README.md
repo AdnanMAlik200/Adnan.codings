@@ -1,2 +1,2 @@
 # Adnan.codings
-this is my first Git.hub account
+this is my first Git.hub Repository
